@@ -10,9 +10,9 @@ Synthesis and deployment with HDK and AWS EC@ F! instances.  As described by htt
 The steps are as follows:
 
 #Go to AWS login to console
-#Launch instance 
-#configure aws
-#clone github aws repository
+$Launch instance 
+\configure aws
+/lone github aws repository
 #source hdk setup
 #run build scripts 
 #create s3 bucket and dcp/ logs folders
