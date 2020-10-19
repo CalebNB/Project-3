@@ -2,9 +2,9 @@
 
 This project's aim has two phases...
 
-Phase 1 is to Install and Run an Open Source Project and reproduce their results
+Phase 1 INSTALL AND RUN AN OPEN SOURCE PROJECT AND REPRODUCE THEIR RESULTS
 
-The Word document Phae 1 Hellow World AWS EC F1 shows screen shots of the Hellow_world Custom Logic
+The Word document PhaSe 1 Hello World AWS EC F1 shows screen shots of the Hellow_world Custom Logic
 Synthesis and deployment with HDK and AWS EC@ F! instances.  As described by https://github.com/aws/aws-fpga/blob/master/hdk/README.md
 
 The steps are as follows:
@@ -34,6 +34,11 @@ load afi onto fpga
 run test_hello_world
 
 
-Phase 2 is to build a machine learning neuron.
+Phase 2 BUILD A MACHINE LEARNING NEURON
 
-THis spot is reserved for more description on Phase 2
+The neuron.py is a neural net that teaches itself to identify if a person will get accepted to a certain university based on three criteria
+1.  Did they score high enough on the SAT
+2.  Does the family have a ceratin wealth
+3.  Did they maintain a high enough GPA in high school
+
+3.
